@@ -1,0 +1,6 @@
+HAILO System requirements check - log
+
+V |  Available RAM (38 GB) is sufficient, and within recommendation (32 GB).
+V |  CPU architecture x86_64 is supported.
+V |  Required avx CPU flag is supported.
+V |  GPU driver version is 535.
